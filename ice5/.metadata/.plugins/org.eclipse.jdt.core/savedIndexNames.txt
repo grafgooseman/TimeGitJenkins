@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\artem\Desktop\Sheridan5\Software Methodologies\ice5\.metadata\.plugins\org.eclipse.jdt.core
+2382129670.index
+4110191829.index
+1865797976.index

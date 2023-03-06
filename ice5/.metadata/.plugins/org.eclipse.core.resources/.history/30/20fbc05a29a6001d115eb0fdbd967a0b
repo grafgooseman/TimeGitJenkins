@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author artem
+ *
+ */
+module HelloJenkins {
+}
